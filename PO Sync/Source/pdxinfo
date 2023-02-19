@@ -1,0 +1,6 @@
+name=PO Sync
+author=Orllewin
+description=Pocket Operator sync test
+bundleID=orllewin.playdate.posync
+version=1.0.0
+imagePath=Images/
